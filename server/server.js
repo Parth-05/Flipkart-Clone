@@ -35,10 +35,10 @@ const URL = process.env.MOGODB_URI
 // DefaultData();
 
 Connection(URL).then(() => {
-    console.log('Database connected successfully');
+    // console.log('Database connected successfully');
     app.listen(PORT, () => {
         console.log(`Server is running successfully on PORT: ${PORT}`);
-        DefaultData();
+        // DefaultData();
     });
 }).catch((error) => {
     console.log(`Error connecting to database: ${error.message}`);
