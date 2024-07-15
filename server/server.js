@@ -13,7 +13,13 @@ const app = express();
 
 dotenv.config();
 
-app.use(cors());
+// Configure CORS
+const corsOptions = {
+    origin: 'https://flipkart-clone-kappa-eight.vercel.app',
+    optionsSuccessStatus: 200
+};
+
+app.use(cors(corsOptions));
 app.use(bodyParser.json({ extended: true }));
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use('/', Router);
