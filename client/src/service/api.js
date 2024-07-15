@@ -3,7 +3,7 @@ import axios from 'axios';
 
 
 // Backend URL
-const URL = `${process.env.REACT_APP_API_URL};
+const URL = `${process.env.REACT_APP_API_URL}`;
 
 export const authenticateSignup = async (data) => {
     try {
