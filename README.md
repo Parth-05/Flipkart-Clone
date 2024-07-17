@@ -1,6 +1,10 @@
 ## Project Description
 The project is an online shopping application inspired by Flipkart, built using the MERN stack (MongoDB, Express.js, React.js, Node.js). This web app allows users to browse, search, and purchase products with ease. It features secure user authentication, dynamic product management, a functional shopping cart, and a seamless checkout process. The application ensures a user-friendly experience with its responsive design, making it accessible on various devices.
 
+![image](https://github.com/user-attachments/assets/4db78896-d79e-49b1-94f9-f4d67bfac0a8)
+
+Live Application Link: https://flipkart-clone-kappa-eight.vercel.app/
+
 ## Technologies & Languages Used
 ### Frontend:
     React.js
