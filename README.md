@@ -7,37 +7,37 @@ Live Application Link: https://flipkart-clone-kappa-eight.vercel.app/
 
 ## Technologies & Languages Used
 ### Frontend:
-    React.js
-    Redux (for state management)
-    CSS/SCSS (for styling)
+React.js
+Redux (for state management)
+CSS/SCSS (for styling)
 
 ###  Backend:
-      Node.js
-      Express.js
+Node.js
+Express.js
 
 ### Database:
-    MongoDB
+MongoDB
 
 ### How to Run the Project
 1. Clone the Repository
-   git clone https://github.com/Parth-05/Flipkart-Clone
+       git clone https://github.com/Parth-05/Flipkart-Clone
 
 2. Install Dependencies:
    **Intsall frontend dependencies**
-   cd client
-   npm install
+       cd client
+       npm install
 
    **Install backend dependencies**
-   cd server
-   npm install
+       cd server
+       npm install
 
 3. Run the Backend Server:
-   cd server
-   npm start
+       cd server
+       npm start
 
 4. Run the Frontend Server:
-   cd client
-   npm start
+       cd client
+       npm start
 
 ## Conclusion
 This Flipkart clone project showcases the integration of the MERN stack to create a full-featured e-commerce web application. With efficient user and product management, and a responsive design, it offers a seamless online shopping experience. This project demonstrates proficiency in full-stack development, from frontend design to backend functionality and database management.
