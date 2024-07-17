@@ -7,15 +7,16 @@ Live Application Link: https://flipkart-clone-kappa-eight.vercel.app/
 
 ## Technologies & Languages Used
 ### Frontend:
-React.js
-Redux (for state management)
-CSS/SCSS (for styling)
+1. React.js
+2. Redux (for state management)
+3. Material UI (for styling)
 
 ###  Backend:
-Node.js
-Express.js
+1. Node.js
+2. Express.js
 
 ### Database:
+
 MongoDB
 
 ### How to Run the Project
