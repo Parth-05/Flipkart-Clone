@@ -28,6 +28,7 @@ Live Application Link: https://flipkart-clone-kappa-eight.vercel.app/
    ```bash
    cd client
    npm install
+   ```bash
 
    **Install backend dependencies**
 
